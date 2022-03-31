@@ -1,0 +1,13 @@
+debug/cafe.o
+debug/dialogdelegate.o
+debug/editcafedialog.o
+debug/linedelegate.o
+debug/main.o
+debug/mainwindow.o
+debug/mymodel.o
+debug/moc_cafe.o
+debug/moc_dialogdelegate.o
+debug/moc_editcafedialog.o
+debug/moc_linedelegate.o
+debug/moc_mainwindow.o
+debug/moc_mymodel.o

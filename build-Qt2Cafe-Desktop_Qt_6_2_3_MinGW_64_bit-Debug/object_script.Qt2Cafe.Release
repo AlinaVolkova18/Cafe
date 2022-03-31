@@ -1,0 +1,13 @@
+release/cafe.o
+release/dialogdelegate.o
+release/editcafedialog.o
+release/linedelegate.o
+release/main.o
+release/mainwindow.o
+release/mymodel.o
+release/moc_cafe.o
+release/moc_dialogdelegate.o
+release/moc_editcafedialog.o
+release/moc_linedelegate.o
+release/moc_mainwindow.o
+release/moc_mymodel.o
